@@ -17,7 +17,7 @@
 
 
 ## 4. There is a 3rd slot below the text, "Copies".
-### Enter in the slot below the number of files you want to copy (For example: "10" will make 10 copies of "example.txt" and "50" will make 50 copies of "example.txt").
+### In the slot below insert the number of files you want to copy (For example: "10" will make 10 copies of "example.txt" and "50" will make 50 copies of "example.txt").
 
 
 ## 5. Then you will see a button at the bottom that says, "Duplicate".
