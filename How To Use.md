@@ -1,4 +1,4 @@
-# This is for people who don't know/understand how to use it
+# Guide
 
 
 ## Put your file into the file duplicator folder (For example: Drag example.txt into Downloads\File-Duplicator-main\File-Duplicator-main\).
