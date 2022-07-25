@@ -1,5 +1,6 @@
 # File-Duplicator
 Duplicate your files thousands of times in seconds!
+
 <img src="file-duplicator.png" alt="File Duplicator" width="250">
 
 # Important Links
