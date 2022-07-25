@@ -1,6 +1,6 @@
 # File-Duplicator
 Duplicate your files thousands of times in seconds!
-<img src="file_duplicator.png" alt="File Duplicator" width="250">
+<img src="file-duplicator.png" alt="File Duplicator" width="250">
 
 # Important Links
 ### 1. [Guide](https://github.com/LuisPavelA/File-Duplicator/blob/main/How%20To%20Use.md)
